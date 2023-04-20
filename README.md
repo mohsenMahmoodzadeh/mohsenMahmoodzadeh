@@ -66,7 +66,7 @@
 <!-- Taken from https://github.com/anuraghazra/github-readme-stats -->
     <a href="#">
         <img
-            width="70%"
+            width="50%"
             src="https://github-readme-stats.vercel.app/api?username=mohsenMahmoodzadeh&theme=tokyonight&count_private=true&show_icons=true&disable_animations=true&include_all_commits=true"
         />
     </a>
@@ -75,7 +75,7 @@
 <br>
     <a href="#">
         <img
-            width="70%"
+            width="50%"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenMahmoodzadeh&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages"
         />
         </a>
