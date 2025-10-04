@@ -1,10 +1,10 @@
 <h1>Hi folks 👋</h1>
 
-- 🏷️ My name is <b>Mohsen Mahmoodzadeh</b>.
+- 🏷️ My name is <b>Mohsen Mahmoudzadeh</b>.
 - 🎓 I have a Bachelor of Computer Engineering degree from Ferdowsi University of Mashhad.
-- 💻 I'm currently working as a ***Data Scientist*** in an E-commerce company.
+- 💻 I'm currently working as a ***Software Engineer*** in an Online Tourist Agency (OTA) .
 - 📝 I regularly write articles on [medium](https://medium.com/@mohsen.mahmoodzadeh).
-- 📄 My main fields of interest are NLP, Recommender Systems, Reinforcement Learning, and Computer Vision.
+- 📄 My main fields of interest are NLP and Recommender Systems.
 - 👨🏻‍💻 Superfan of Python!
 
 <h3 align="left">Let's keep in touch:</h3>
